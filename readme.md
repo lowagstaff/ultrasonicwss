@@ -10,9 +10,9 @@
 
 Steps to build and/or run the software:
 
-1. Follow link: https://www.tinkercad.com/things/gS8eUGQTQ6R-mighty-kieran/editel?tenant=circuits
-2. Press the "Start Simulation" button on the top right of the screen. 
-3.
+1. Follow link: [https://www.tinkercad.com/things/gS8eUGQTQ6R-mighty-kieran/editel?tenant=circuits](https://www.tinkercad.com/things/gS8eUGQTQ6R-mighty-kieran/editel?sharecode=-m_TpTlyknORMy-8txDNLVhwmGX2Nr4rJvGR_nuUUU8)
+2. Create TinkerCad account if needed
+3. Press the "Start Simulation" button on the top right of the screen. 
 
 Instructions for using the software:
 
